@@ -30,7 +30,6 @@ A curated list of DevOps tools, technologies, platforms and resources. Things to
     - [Books](#books)
     - [Conferences](#conferences)
     - [DevOps Roadmap](#devops-roadmap)
-  - [Contributing](#contributing)
   - [Authors](#authors)
 
 ---
