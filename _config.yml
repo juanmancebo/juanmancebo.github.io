@@ -3,6 +3,11 @@ title: DevOps tools.
 url: "https://juanmancebo.github.io"
 remote_theme: pmarsceill/just-the-docs
 
+# Aux links for upper right navigation link
+aux_links:
+  "Go to GitHub profile >":
+    - "https://github.com/juanmancebo"
+    
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "Edit this page on GitHub."
