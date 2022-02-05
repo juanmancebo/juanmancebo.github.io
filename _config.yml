@@ -1,7 +1,8 @@
 plugins:
   - jekyll-relative-links
-  - jemoji
+  - jemoji  
 relative_links:
   enabled: true
   collections: true
+theme: jekyll-material-theme
 author: "Juan C. Mancebo"
