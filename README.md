@@ -80,6 +80,7 @@ A curated list of DevOps tools, technologies, platforms and resources. Things to
 *Network distributed filesystems.*
 
 - [Ceph](https://ceph.io/) - highly scalable object, block and file-based storage under one whole system.
+- [Rook](https://rook.io/) - Open-Source, Cloud-Native Storage for Kubernetes
 - [Gluster](https://www.gluster.org/) - free and open source software scalable network filesystem.
 - [LINBIT](https://www.linbit.com/en/) - create, remove, and replicate block storage devices for datacenter scale environments.
 - [XtreemFS](http://www.xtreemfs.org/) - fault-tolerant distributed file system for all storage needs.
@@ -131,6 +132,7 @@ A curated list of DevOps tools, technologies, platforms and resources. Things to
 - [Capistrano](https://capistranorb.com/) - A remote server automation and deployment tool.
 - [Mina](http://nadarei.co/mina/) - really fast deployer and server automation tool.
 - [Terraform](https://www.terraform.io/) - use Infrastructure as Code to provision and manage any cloud, infrastructure, or service.
+- [Crossplane](https://crossplane.io/) - Compose cloud infrastructure and services into custom platform APIs.
 - [Pulumi](https://www.pulumi.com/) - modern infrastructure as code platform that allows you to use familiar programming languages and tools to build, deploy, and manage cloud infrastructure.
 - [Packer](https://www.packer.io/) - build Automated Machine Images.
 - [Vagrant](https://www.vagrantup.com/) - Development Environments Made Easy.
@@ -143,6 +145,16 @@ A curated list of DevOps tools, technologies, platforms and resources. Things to
 - [Ignite](https://github.com/weaveworks/ignite) -  Open Source Virtual Machine (VM) manager with a container UX and built-in GitOps management.
 - [Spacelift](https://spacelift.io/) - Flexible orchestration solution for IaC development.
 - [Atlantis](https://www.runatlantis.io/) - Terraform Pull Request Automation.
+
+## Machine Learning
+
+*Machine Learning, data analytics, workflows.*
+
+- [Apache Spark](https://spark.apache.org/) - Unified engine for large-scale data analytics.
+- [Apache Airflow](https://airflow.apache.org/) - Airflow is a platform to programmatically author, schedule and monitor workflows.
+- [Argo Workflows](https://argoproj.github.io/workflows/) - Argo Workflows is an open source container-native workflow engine for orchestrating parallel jobs on Kubernetes.
+- [Kubeflow](https://www.kubeflow.org/) - Kubeflow is an open, community driven project to make it easy to deploy and manage an ML stack on Kubernetes
+- [Luigi](https://luigi.readthedocs.io/en/stable/) - Luigi is a Python package that helps you build complex pipelines of batch jobs.
 
 ## Continuous Integration & Delivery
 
