@@ -189,6 +189,7 @@ A curated list of DevOps tools, technologies, platforms and resources. Things to
   - [Cirrus CI](https://cirrus-ci.org/) - continuous integration system built for the era of cloud computing.
   - [Codefresh](https://codefresh.io/) - GitOps automation platform for Kubernetes apps.
   - [Github actions](https://github.com/features/actions) - GitHub Actions makes it easy to automate all your software workflows, now with world-class CI/CD.
+  - [Earthly CI](https://earthly.dev) - Earthly makes fast, repeatable CI/CD with an instantly familiar syntax – like Dockerfile and Makefile.
 
 ## Source Code Management
 
@@ -374,7 +375,7 @@ A curated list of DevOps tools, technologies, platforms and resources. Things to
 - [Sops](https://github.com/mozilla/sops) - simple and flexible tool for managing secrets.
 - [Vault](https://www.hashicorp.com/products/vault/) - manage secrets and protect sensitive data.
 - [Keybase](https://keybase.io/) - end-to-end encrypted chat and cloud storage system.
-- [Vault Secrets Operator](https://github.com/ricoberger/vault-secrets-operator) - create Kubernetes secrets from Vault for a secure GitOps based workflow.
+- [Vault Secrets Operator](https://github.com/hashicorp/vault-secrets-operator) - create Kubernetes secrets from Vault for a secure GitOps based workflow.
 - [Git Secret](https://github.com/sobolevn/git-secret) - a bash-tool to store your private data inside a git repository.
 
 ## Sharing
